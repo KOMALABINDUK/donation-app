@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Layout */
+.dashboard-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 230px;
+  background-color: #ffb6c1;   /* Light Pink */
+  color: #333;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-bottom: 30px;
+}
+
+.sidebar p {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.sidebar p:hover {
+  background-color: #ff8fab;
+  color: white;
+}
+
+/* Content Area */
+.content {
+  flex: 1;
+  background-color: #fff0f5;  /* Very light pink */
+  padding: 30px;
+}
