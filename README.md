@@ -36,6 +36,6 @@ A full-stack Donation Management System built using React.js and Node.js to stre
 k. Komala Bindu
 ##  Team Members
 
-k. Komala Bindu 
-p. akshitha hasini
-v. pavani 
+K. Komala Bindu ,
+P. akshitha hasini ,
+V. pavani .
